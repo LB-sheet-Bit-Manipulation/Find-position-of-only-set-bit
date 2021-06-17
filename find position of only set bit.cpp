@@ -2,9 +2,6 @@
 //Right shift the until 1 is encountered and keep doing Bitwise AND of the rightmost bit with 1. Agar rihjtmost bit 1 hai to
 //result 1 aayga else its 0
 
-//Issue:
-//Explore more methods like log2n ..
-
 
 #include<iostream>
 #include<cmath>   //to use floor() and ceil() and log2()
